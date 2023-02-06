@@ -105,6 +105,6 @@ function Jarvis() {
         }
     }
     if (!isPC) {
-        window.location.href = 'https://m.panyizhe.com'
+        window.location.href = 'https://m.happy.panyizhe.com'
     }
 })()
